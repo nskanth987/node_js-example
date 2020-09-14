@@ -5,3 +5,7 @@ node_js:
 - 'lts/*'
 
 cache: npm
+
+notifications:
+  email:
+    - nellurisrikanth1@gmail.com
